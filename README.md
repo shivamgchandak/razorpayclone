@@ -6,4 +6,4 @@
 - Tailwind CSS
 
 ## Live Site:
-[Netlify](https://razorpay-clone-pre.netlify.app/)
+[Vercel](https://razorpayclone-rouge.vercel.app/)
